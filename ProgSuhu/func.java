@@ -5,7 +5,6 @@ import java.io.Console;
 public class func {
     
     
-
     public static void celcius(){ 
         Console console = System.console();
         String Inputsuhu = console.readLine("Masukkann suhu dalam Celcius (C) : ");
